@@ -1,0 +1,34 @@
+{"Biodata" :
+	[
+		{	"name" : "Dede Mukti",
+			"age" : "21",
+			"address" :"Bogor",
+			"hobbies" :"Futsal",
+			"is_married " : "Single",
+			"list_school" : [
+								{
+								"Name" :"MI ATFALIYYAH" ,
+								"year_in" :"2005",
+								"year_out" :"2011",
+								}
+								{
+								"Name" :"MTS BAETURRAHMAN" ,
+								"year_in" :"2011",
+								"year_out" :"2014",
+								}
+								{
+								"Name" :"SMKN 1 CIBINONG" ,
+								"year_in" :"2011",
+								"year_out" :"2014",
+								}
+							],
+			"skills" : "beginner",
+			"interest_in_coding" :"YES"	
+
+
+
+		}
+	]
+	
+}
+
